@@ -1,0 +1,28 @@
+name: moespa
+favicon: null
+layout_spectrum: 0.28142770333215594
+typography_spectrum: 0.5561827453784645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.929068626370281
+  lightness: 0.9029738171957433
+  saturation: 0.2181593757122755
+  rhythmicContrast: 0.596396082546562
+purpose: []
